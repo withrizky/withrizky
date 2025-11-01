@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile for withrizky -->
 
-<h1 align="center">Rizky — Independent IT Professional</h1>
-<h3 align="center">Automation Developer • Backend Engineer • Technology Innovator</h3>
+<h1 align="center">Rizky | IT Professional</h1>
+<h3 align="center">Automation Developer • Backend Engineer • IT Consultant</h3>
 
 ---
 
