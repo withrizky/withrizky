@@ -24,7 +24,7 @@ My mission is to grow independently through technology, creating tools, APIs, an
 - **Backend Development**: Python, PHP, Go  
 - **Automation**: N8N, Azure, Scripts  
 - **Infrastructure**: Linux, Docker, Podman  
-- **Data Layer**: Mysql, MongoDB, Firebase  
+- **Data Layer**: MySQL, MongoDB, Firebase  
 - **Frontend Support**: Bootstrap, Tailwind, Flutter
 
 ---
