@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 I’m an IT professional passionate about building scalable systems, automation workflows, and intelligent backend solutions.  
-My mission is to grow independently through technology — creating tools, APIs, and automations that make businesses smarter and faster.
+My mission is to grow independently through technology, creating tools, APIs, and automations that make businesses smarter and faster.
 
 - ⚙️ Experienced in backend development, API integration, and automation  
 - 🔍 Focused on data-driven systems and process optimization  
