@@ -26,6 +26,7 @@ My mission is to grow independently through technology, creating tools, APIs, an
 - **Infrastructure**: Linux, Docker, Podman  
 - **Data Layer**: MySQL, MongoDB, Firebase  
 - **Frontend Support**: Bootstrap, Tailwind, Flutter
+- **Creative**: Adobe Photoshop, Adobe Premier, Adobe After Effects
 
 ---
 
