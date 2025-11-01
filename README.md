@@ -11,7 +11,7 @@ My mission is to grow independently through technology, creating tools, APIs, an
 
 - ⚙️ Experienced in backend development, API integration, and automation  
 - 🔍 Focused on data-driven systems and process optimization  
-- 🚀 Exploring AI, FastAPI, Node.js, and workflow automation (n8n)  
+- 🚀 Exploring AI, Machine Learning, Scalable API, and System Automation (N8N, Appscripts And Azure)  
 - 💬 Open for collaborations on innovative tech projects  
 
 ---
