@@ -1,6 +1,6 @@
 <!-- Professional GitHub Profile for withrizky -->
 
-<h1 align="center">Rizky | IT Professional</h1>
+<h1 align="center">Rizky Reynaldi | IT Professional</h1>
 <h3 align="center">Automation Developer • Backend Engineer • IT Consultant</h3>
 
 ---
